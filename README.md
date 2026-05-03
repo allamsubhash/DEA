@@ -43,4 +43,4 @@ Smart Support AI is a production-ready, full-stack platform designed for automat
 3. Start the development server: `npm run dev`
 
 ---
-Built with ❤️ by Antigravity AI.
+
